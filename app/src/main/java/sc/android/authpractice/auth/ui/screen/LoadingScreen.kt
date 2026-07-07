@@ -1,4 +1,4 @@
-package sc.android.authpractice.auth.ui
+package sc.android.authpractice.auth.ui.screen
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
