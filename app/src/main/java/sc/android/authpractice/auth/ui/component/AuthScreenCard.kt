@@ -21,7 +21,7 @@ import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import sc.android.authpractice.auth.ui.util.AuthOutlinedTextField
-import sc.android.authenticationlab.auth.validation.AuthValidator
+import sc.android.authpractice.auth.validation.AuthValidator
 
 @Composable
 fun AuthScreenCard(
